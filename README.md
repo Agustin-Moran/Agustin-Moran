@@ -80,18 +80,15 @@
 
  </div>
  
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Agustin-Moran&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📊 Most Used Language
 
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Agustin-Moran&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
- 
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Agustin-Moran&layout=compact&theme=radical&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" />
+
+</div>
+
 
 ---
 
