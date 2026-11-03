@@ -29,15 +29,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🖥️ Frameworks
-
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### 📚 Libraries
 
@@ -93,23 +88,44 @@
 
 ### 🔗 &nbsp;Contact Me
 
+
+
 <div align="center">
-<a href="https://mail.google.com/mail/?view=cm&to=agusmoranutn@gmail.com">
-  <img
-    alt="Gmail"
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
-<a href="https://www.linkedin.com/in/agust%C3%ADn-mor%C3%A1n-17941b357">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://t.me/agussmoran">
-   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=agusmoranutn@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/agust%C3%ADn-mor%C3%A1n-17941b357">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>&nbsp;
+  <a href="https://t.me/agussmoran">
+    <img
+      src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
+  </a>&nbsp;
+  <a href="https://wa.me/TU_NUMERO">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp"
+    />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/TU_USUARIO/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
 </div>
 
 
----
 
+
+---
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
