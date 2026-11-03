@@ -17,9 +17,9 @@
 
 ---
 
-- 👨‍💻 As an AI and software developer, I'm constantly learning and exploring new technologies to enhance my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into Machine Learning and AI
+- 👨‍💻 Actualmente me estoy especializando en el Stack MEAN a través de proyectos personales.
+- 💬 Estoy entusiasmado por unirme a una empresa que valore el aprendizaje continuo, donde pueda seguir creciendo profesionalmente y aplicar todo lo que he aprendido para contribuir al éxito del equipo.
+- 🌱 Conóceme mejor viendo mi portafolio:
 
 ## 🛠 &nbsp;Tech Stack
 
