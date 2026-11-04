@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Agustin-Moran"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programer%20FullStack;AI%20Programer;Always%20learning%20new%20things;&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/Agustin-Moran"><img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack%20Programer;AI%20Programer;Always%20learning%20new%20things;&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
