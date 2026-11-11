@@ -19,7 +19,7 @@
 
 - 👨‍💻 Actualmente me estoy especializando en el Stack MEAN a través de proyectos personales.
 - 💬 Estoy entusiasmado por unirme a una empresa que valore el aprendizaje continuo, donde pueda seguir creciendo profesionalmente y aplicar todo lo que he aprendido para contribuir al éxito del equipo.
-- 🌱 Conóceme mejor viendo mi portafolio:
+- 🌱 Conóceme mejor viendo mi portafolio: https://agustin-moran.github.io/Portfolio/
 
 ## 🛠 &nbsp;Tech Stack
 
